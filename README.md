@@ -1,6 +1,8 @@
 # Mid-Term-Project
 # 32200242 권민우
 
+!<img src="profile.jpg" alt="profile" height="200"/>
+
 ## 학력
 ### 상현초등학교 졸업
 ### 서원중학교 졸업
