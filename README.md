@@ -6,7 +6,7 @@
 
 
 ## 학력
-`상현초등학교 졸업`
+`상현초등학교 졸업`<br/>
 `서원중학교 졸업`
 `풍덕고등학교 졸업`
 `단국대학교 정보통계학과 3학년 재학중`
@@ -33,3 +33,5 @@
 `데이터를 이용한 공모전 적극 참여`
 `SQL, C++등의 프로그래밍 언어 습득`
 `Kaggle을 이용하여 데이터 이용하는 능력 향상`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer" width="100%"/> 
