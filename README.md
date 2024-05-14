@@ -1,11 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 # Mid-Term-Project
 # 32200242 권민우
 
 <img src="profile.jpg" alt="profile" height="200"/>
 
 
-<font color="yellow" size="5">학력</font>
-
+## 학력
 ### 상현초등학교 졸업
 ### 서원중학교 졸업
 ### 풍덕고등학교 졸업
