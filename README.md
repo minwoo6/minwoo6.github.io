@@ -4,7 +4,7 @@
 <img src="profile.jpg" alt="profile" height="200"/>
 
 
-<span style="background-color:#fff5b1"> 노란형광펜 </span>
+<mark> 학력 </mark>
 
 ### 상현초등학교 졸업
 ### 서원중학교 졸업
