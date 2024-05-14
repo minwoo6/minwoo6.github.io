@@ -4,7 +4,7 @@
 <img src="profile.jpg" alt="profile" height="200"/>
 
 
-<mark> 학력 </mark>
+<font color="yellow" size="5">학력</font>
 
 ### 상현초등학교 졸업
 ### 서원중학교 졸업
