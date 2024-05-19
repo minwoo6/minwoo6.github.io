@@ -37,4 +37,6 @@
 ## 가고싶은 회사
 [![티맥스](https://img.youtube.com/vi/crqK5H-Q1vQ/0.jpg)](https://www.youtube.com/watch?v=crqK5H-Q1vQ)
 
+# 읽어주셔서 감사합니다
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer" width="100%"/> 
