@@ -34,4 +34,7 @@
 `SQL, C++등의 프로그래밍 언어 습득`<br/>
 `Kaggle을 이용하여 데이터 이용하는 능력 향상`<br/><br/>
 
+## 가고싶은 회사
+[![티맥스](https://img.youtube.com/vi/crqK5H-Q1vQ)](https://www.youtube.com/watch?v=crqK5H-Q1vQ)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer" width="100%"/> 
